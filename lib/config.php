@@ -1,0 +1,1 @@
+<?php/** * @author webrek * @copyright 2013 */$host = 'localhost';$user = 'root';$pass = '12345';$db = 'avca';$connect = mysql_connect($host, $user, $pass) or die (mysql_error());$dbSelecct = mysql_select_db($db, $connect);?>
