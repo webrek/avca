@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ee7c44f-7437-4a0e-ae27-1aee92e79c48" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/config.php" afterPath="$PROJECT_DIR$/lib/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/contacto.html" afterPath="$PROJECT_DIR$/templates/contacto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.php" afterPath="$PROJECT_DIR$/lib/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.htm" afterPath="$PROJECT_DIR$/test.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="avca.iws" />
@@ -26,14 +31,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.10204082" vertical-offset="144" max-vertical-offset="4182">
+            <state line="26" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="-8.615385" vertical-offset="218" max-vertical-offset="935">
               <folding>
                 <element signature="e#7#51#0" expanded="true" />
-                <marker date="1394311833553" expanded="true" signature="557:605" placeholder="SELECT * FRO..contenido..." />
+                <marker date="1394332984371" expanded="true" signature="555:603" placeholder="SELECT * FRO..contenido..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="143" selection-start="334" selection-end="454" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/contacto.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="34" selection-start="966" selection-end="966" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="7" selection-start="0" selection-end="3019" vertical-scroll-proportion="-16.076923" vertical-offset="534" max-vertical-offset="6698">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="34" selection-start="3367" selection-end="3367" vertical-scroll-proportion="0.48639455" vertical-offset="853" max-vertical-offset="3536">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="6" selection-start="2164" selection-end="2164" vertical-scroll-proportion="-21.807692" vertical-offset="334" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="switcher.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/switcher.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="8247" max-vertical-offset="8874">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="308" column="45" selection-start="10264" selection-end="10264" vertical-scroll-proportion="-15.32" vertical-offset="4853" max-vertical-offset="6052">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/map.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="14004" selection-end="14004" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="697">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +128,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/test.htm" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/lib/main.php" />
+        <option value="$PROJECT_DIR$/lib/config.php" />
+        <option value="$PROJECT_DIR$/templates/contacto.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -75,10 +159,13 @@
           <State>
             <id>PHP</id>
           </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpIncludeInspection</id>
+            <id>PhpParamsInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -126,6 +213,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="avca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avca" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,12 +309,18 @@
       <created>1394079639112</created>
       <updated>1394079639112</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer">
+      <created>1394311882228</created>
+      <updated>1394311882228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -258,7 +365,7 @@
         <state line="32" column="40" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="4114">
           <folding>
             <element signature="e#7#51#0" expanded="true" />
-            <marker date="1394311833553" expanded="true" signature="557:605" placeholder="SELECT * FRO..contenido..." />
+            <marker date="1394332984371" expanded="true" signature="555:603" placeholder="SELECT * FRO..contenido..." />
           </folding>
         </state>
       </provider>
@@ -268,7 +375,7 @@
         <state line="7" column="3" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="4114">
           <folding>
             <element signature="e#7#51#0" expanded="true" />
-            <marker date="1394311833553" expanded="true" signature="557:605" placeholder="SELECT * FRO..contenido..." />
+            <marker date="1394332984371" expanded="true" signature="555:603" placeholder="SELECT * FRO..contenido..." />
           </folding>
         </state>
       </provider>
@@ -292,13 +399,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/map.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="14004" selection-end="14004" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="6" selection-start="2164" selection-end="2164" vertical-scroll-proportion="-21.807692" vertical-offset="334" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="6" selection-start="12152" selection-end="12152" vertical-scroll-proportion="0.96428573" vertical-offset="2714" max-vertical-offset="3383">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#2;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#3;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#1;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#2;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#3;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#1;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h1#2;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#div#2;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/switcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="8247" max-vertical-offset="8874">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="308" column="45" selection-start="10264" selection-end="10264" vertical-scroll-proportion="-15.32" vertical-offset="4853" max-vertical-offset="6052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="7" selection-start="0" selection-end="3019" vertical-scroll-proportion="-16.076923" vertical-offset="534" max-vertical-offset="6698">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.10204082" vertical-offset="144" max-vertical-offset="4182">
+        <state line="26" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="-8.615385" vertical-offset="218" max-vertical-offset="935">
           <folding>
             <element signature="e#7#51#0" expanded="true" />
-            <marker date="1394311833553" expanded="true" signature="557:605" placeholder="SELECT * FRO..contenido..." />
+            <marker date="1394332984371" expanded="true" signature="555:603" placeholder="SELECT * FRO..contenido..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="143" selection-start="334" selection-end="454" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="34" selection-start="966" selection-end="966" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="34" selection-start="3367" selection-end="3367" vertical-scroll-proportion="0.48639455" vertical-offset="853" max-vertical-offset="3536">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,42 @@
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="js/map.min.js"></script>
+<div id="google-map">
+</div>
+<div class="container">
+    <section class="one-fourth">
+        <p>
+            Sientase libre de ponerse en contacto con nosotros para cualquier duda o pregunta.
+        </p>
+        <br/>
+        <ul class="contact-info-widget">
+            <li><i class="icon-home"></i><a href="#">Amatl 135, Santo Domingo Coyoacan, México. D.F.</a></li>
+            <li><i class="icon-phone"></i>(55)12041876</li>
+            <li><i class="icon-envelope-alt"></i>&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#111;&#064;&#097;&#118;&#099;&#097;&#046;&#099;&#111;&#109;&#046;&#109;&#120;</li>
+        </ul>
+        <br/>
+    </section>
+    <section class="three-fourth last">
+        <form action="index.php" id="contact-form" class="simple-form " method="post">
+               <input type="hidden" name="op" value="contactSubmit" />
+            <fieldset class="one-fourth">
+                <label><span>* </span>Nombre </label>
+                <input type="text" class="text requiredField" name="name"/>
+            </fieldset>
+            <fieldset class="one-fourth">
+                <label><span>* </span>E-mail </label>
+                <input type="text" class="requiredField email" name="email"/>
+            </fieldset>
+            <fieldset class="one-fourth last">
+                <label>Sitio web </label>
+                <input type="text" class="url" name="url"/>
+            </fieldset>
+            <fieldset class="three-fourth last">
+                <label><span>* </span>Mensaje </label>
+                <textarea cols="30" rows="12" class="text requiredField" name="message"></textarea>
+            </fieldset>
+            <fieldset class="three-fourth last">
+                <input type="submit" value="Enviar Mensaje" class="button small color round"/>
+            </fieldset>
+        </form>
+    </section>
+</div>
